@@ -48,7 +48,7 @@ https://scikit-learn.org/stable/install.html
 
 # Dataset
 
-### Download the demo dataset from "Dataset.zip"
+### Download the demo dataset from "dataset.rar"
 
 ### Training Dataset:
 The models were trained on GM12878 CTCF, GM12878 RNA Pol II, HelaS3 CTCF, K562 RNA Pol II, and MCF-7 RNA Pol II datasets separately.
